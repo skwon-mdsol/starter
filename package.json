@@ -1,8 +1,8 @@
 {
-  "name": "examples",
+  "name": "Starter",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:bzuniga-mdsol/examples.git",
+  "repository": "git@github.com:bzuniga-mdsol/starter.git",
   "author": "Bernardo Zuniga <bzuniga@mdsol.com>",
   "license": "MIT",
   "dependencies": {
@@ -20,7 +20,6 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-router-dom": "^4.1.1",
-    "sandman-bower": "git+ssh://git@github.com:mdsol/sandman-bower.git#1.2.7",
     "sass-loader": "^6.0.6",
     "style-loader": "^0.18.2",
     "url-loader": "^0.5.9",
